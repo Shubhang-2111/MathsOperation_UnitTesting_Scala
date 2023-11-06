@@ -7,7 +7,7 @@ object MathsOperation {
   }
 
   def subtract(num1: Int, num2: Int): Int = {
-    num1 - num2;
+    num1 - num2
   }
 
   def multiply(num1: Int, num2: Int): Int = {
